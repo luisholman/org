@@ -13,7 +13,7 @@ function App() {
     id: uuid(),
     equipo: "Front End",
     foto: "https://github.com/luisholman.png",
-    nombre: "Harland Lohora",
+    nombre: "Luis Holman",
     puesto: "Desarrollador Front-End",
     fav: true
   },
